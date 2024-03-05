@@ -1,0 +1,8 @@
+Este arquivo inclui cada etapa do desenvolvimento desta API
+
+# Iniciando o ambiente:
+É necessário iniciar o módulo Go para começar o projeto. No go.mod estão as dependências.
+1. go mod init <endereço github>
+
+Instalando a biblioteca gin para lidar com apis
+go get github.com/gin-gonic/gin
